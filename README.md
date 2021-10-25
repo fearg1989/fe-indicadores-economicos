@@ -1,27 +1,37 @@
-# FeIndicadoresEconomicos
+# fe-indicadores-economicos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
+_Front-End para la consulta de datos economicos en https://www.indecon.site/_
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Pre-requisitos 📋
 
-## Code scaffolding
+_Se debe tener insalador npm, ng en el entorno local_
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Comenzando 🚀
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+_Para clonar en repositorio local:_
+```
+git clone git@github.com:fearg1989/fe-indicadores-economicos.git
+```
 
-## Running unit tests
+## Ejecutando las pruebas en jasmine ⚙️
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+_Estando en la raiz del repositorio ejecutar:_
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
+npm test
+```
 
-## Further help
+## Despliegue 📦
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+_Para desplegar en ambiente local se debe ejecutar:_
+
+```
+npm start
+```
+_Y revisar en el navegador`http://localhost:4200/`_
+## Autor ✒️
+
+* **Félix Rodríguez** - (https://github.com/fearg1989)
